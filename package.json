@@ -1,0 +1,27 @@
+{
+  "name": "clone-date",
+  "version": "1.0.0",
+  "description": "Clone date objects.",
+  "main": "lib/index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "date",
+    "object",
+    "clone"
+  ],
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IonicaBizau/clone-date.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/clone-date/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/clone-date#readme"
+}
