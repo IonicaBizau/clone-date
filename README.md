@@ -1,14 +1,18 @@
+
 # clone-date [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/clone-date.svg)](https://www.npmjs.com/package/clone-date) [![Downloads](https://img.shields.io/npm/dt/clone-date.svg)](https://www.npmjs.com/package/clone-date) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > Clone date objects.
 
-## Installation
+## :cloud: Installation
 
 ```sh
 $ npm i --save clone-date
 ```
 
-## Example
+
+## :clipboard: Example
+
+
 
 ```js
 const cloneDate = require("clone-date");
@@ -28,7 +32,8 @@ console.log(c === d);
 // => false
 ```
 
-## Documentation
+## :memo: Documentation
+
 
 ### `cloneDate(date)`
 Clones a date object.
@@ -39,13 +44,13 @@ Clones a date object.
 #### Return
 - **Date** The cloned date object.
 
-## How to contribute
+
+
+## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
-## Where is this library used?
-If you are using this library in one of your projects, add it in this list. :sparkles:
 
-## License
+## :scroll: License
 
 [MIT][license] © [Ionică Bizău][website]
 

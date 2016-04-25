@@ -1,6 +1,6 @@
 {
   "name": "clone-date",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Clone date objects.",
   "main": "lib/index.js",
   "directories": {
@@ -23,5 +23,16 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/clone-date/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/clone-date#readme"
+  "homepage": "https://github.com/IonicaBizau/clone-date#readme",
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "resources/",
+    "menu/",
+    "cli.js",
+    "index.js"
+  ]
 }
