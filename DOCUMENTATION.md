@@ -6,6 +6,7 @@ You can see below the API reference of this module.
 Clones a date object.
 
 #### Params
+
 - **Date** `date`: The date object to clone.
 
 #### Return
