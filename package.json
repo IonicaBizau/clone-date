@@ -1,6 +1,6 @@
 {
   "name": "clone-date",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Clone date objects.",
   "main": "lib/index.js",
   "directories": {
@@ -34,6 +34,9 @@
     "resources/",
     "menu/",
     "cli.js",
-    "index.js"
+    "index.js",
+    "bloggify.js",
+    "bloggify.json",
+    "bloggify/"
   ]
 }
