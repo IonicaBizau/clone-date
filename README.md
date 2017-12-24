@@ -10,7 +10,11 @@
 ## :cloud: Installation
 
 ```sh
-$ npm i --save clone-date
+# Using npm
+npm install --save clone-date
+
+# Using yarn
+yarn add clone-date
 ```
 
 
