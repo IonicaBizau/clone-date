@@ -1,6 +1,6 @@
 {
   "name": "clone-date",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "Clone date objects.",
   "main": "lib/index.js",
   "directories": {
