@@ -3,6 +3,9 @@
   "version": "1.0.13",
   "description": "Clone date objects.",
   "main": "lib/index.js",
+  "contributors": [
+    "Desiderio Silva <desideriotbs@gmail.com> (https://github.com/dsilva01)"
+ ],
   "directories": {
     "example": "example"
   },
